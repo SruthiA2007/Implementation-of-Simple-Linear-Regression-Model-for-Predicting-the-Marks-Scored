@@ -38,6 +38,8 @@ RegisterNumber:212224240162
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/5a6cbf8d-8c92-493e-b41c-f0501f8ae6c6" />
+
 
 
 ## Result:
