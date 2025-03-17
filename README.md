@@ -21,12 +21,22 @@ Developed by:SRUTHI A
 RegisterNumber:212224240162 
 */
 ```
-<img width="598" alt="image" src="https://github.com/user-attachments/assets/f662add2-07a4-4bb3-a0c7-896f30a7a380" />
-<img width="649" alt="image" src="https://github.com/user-attachments/assets/f1b372c4-6df5-440a-a65d-61bf4dfa400b" />
-<img width="754" alt="image" src="https://github.com/user-attachments/assets/e24cd36c-4ad6-459f-ac57-94e8fc218a0e" />
-<img width="497" alt="image" src="https://github.com/user-attachments/assets/b71b5161-382a-42b9-b6e1-7792f32fbb0b" />
-<img width="533" alt="image" src="https://github.com/user-attachments/assets/e7f70aee-9929-48ae-9c0c-9ab22211b44a" />
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/bbb3e40b-27bd-42d6-916f-964e0f0ef1d8" />
+![Screenshot 2025-03-17 135427](https://github.com/user-attachments/assets/93b915c0-e665-489d-850c-87940de19bb5)
+
+![Screenshot 2025-03-17 135510](https://github.com/user-attachments/assets/db3f4d58-cbf3-4d87-98c8-3606b69e5878)
+
+![Screenshot 2025-03-17 135527](https://github.com/user-attachments/assets/9bc1be80-0baa-4a74-8f2b-80dff5d84a9e)
+
+![Screenshot 2025-03-17 135541](https://github.com/user-attachments/assets/481a1ddd-cfc1-4c33-860a-49ee21dc5698
+
+![Screenshot 2025-03-17 135603](https://github.com/user-attachments/assets/f550d97a-0b09-4692-b737-993b976d92c7)
+
+![Screenshot 2025-03-17 135617](https://github.com/user-attachments/assets/beef89f8-07b1-4680-9408-5124d773b0a6)
+
+
+
+
+
 
 
 
@@ -38,7 +48,8 @@ RegisterNumber:212224240162
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/5a6cbf8d-8c92-493e-b41c-f0501f8ae6c6" />
+![Screenshot 2025-03-17 135405](https://github.com/user-attachments/assets/60ca2b65-d8c7-49d3-9cca-d066e1733716)
+
 
 
 
