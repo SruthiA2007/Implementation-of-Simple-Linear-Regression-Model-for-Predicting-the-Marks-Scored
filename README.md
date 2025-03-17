@@ -27,7 +27,8 @@ RegisterNumber:212224240162
 
 ![Screenshot 2025-03-17 135527](https://github.com/user-attachments/assets/9bc1be80-0baa-4a74-8f2b-80dff5d84a9e)
 
-![Screenshot 2025-03-17 135541](https://github.com/user-attachments/assets/481a1ddd-cfc1-4c33-860a-49ee21dc5698
+![Screenshot 2025-03-17 135541](https://github.com/user-attachments/assets/5b575b5d-8505-4df2-a6f6-f75ff0335eaf)
+
 
 ![Screenshot 2025-03-17 135603](https://github.com/user-attachments/assets/f550d97a-0b09-4692-b737-993b976d92c7)
 
